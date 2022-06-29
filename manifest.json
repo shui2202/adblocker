@@ -1,0 +1,15 @@
+{
+    "name": "Adblocker Pro", 
+    "description": "An extension that blocks ads.",
+    "manifest_version": 2,
+    "version": "1.0", 
+    "background": {
+        "scripts": ["adblocker.js"]
+    },
+    "icons": {
+        "16": "adblockicon.png",
+        "48": "adblockicon.png",
+        "128": "adblockicon.png"
+    },
+    "permissions": ["webRequest", "webRequestBlocking", "http://*/", "https://*/"]
+}
