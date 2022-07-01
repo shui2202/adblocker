@@ -1,1 +1,1 @@
-# My adblocker. It blocks one websites but not on youtube though
+# My adblocker. It blocks ads on most websites but not on some
